@@ -1,0 +1,5 @@
+Preprocessing: Dropped NAs, Label Encoded categories, Train-Test split 80-20
+Decision Tree:
+MSE=15448.0816, MAE=39.6458, R2=0.7389
+XGBoost:
+MSE=9686.9589, MAE=33.4483, R2=0.8363
